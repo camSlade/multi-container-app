@@ -17,7 +17,7 @@ services:
     environment:
       NODE_ENV: production
     ports:
-      - 3000:3000
+      - 3003:3003
       - 35729:35729
     develop:
       watch:
